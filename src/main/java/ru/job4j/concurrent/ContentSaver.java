@@ -2,7 +2,7 @@ package ru.job4j.concurrent;
 
 import java.io.*;
 
-public class ContentSaver {
+public final class ContentSaver {
 
     private final File file;
 
